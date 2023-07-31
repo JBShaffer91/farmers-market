@@ -4,7 +4,7 @@ Avery's Organics is a small, family-owned farm that sells produce at local farme
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/averys-organics.git`
+1. Clone the repository: `git clone https://github.com/JBShaffer91/farmers-market.git`
 2. Navigate to the project directory: `cd averys-organics`
 3. Install the dependencies: `npm install`
 4. Start the application: `npm start`
