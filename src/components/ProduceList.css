@@ -1,0 +1,15 @@
+.produce-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.produce-month {
+  font-size: 1.5em;
+  color: var(--primary-color);
+}
+
+.produce-selection {
+  font-size: 1em;
+  color: var(--dark-color);
+}

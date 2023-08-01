@@ -5,6 +5,7 @@ import Hero from './Hero';
 import MarketSchedule from './MarketSchedule';
 import ProduceList from './ProduceList';
 import { marketSchedule, availableProduce } from '../data';
+import './App.css';
 
 function App() {
   return (

@@ -1,0 +1,20 @@
+.market-schedule {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.market-day {
+  font-size: 1.5em;
+  color: var(--primary-color);
+}
+
+.market-location {
+  font-size: 1.2em;
+  color: var(--secondary-color);
+}
+
+.market-info {
+  font-size: 1em;
+  color: var(--dark-color);
+}

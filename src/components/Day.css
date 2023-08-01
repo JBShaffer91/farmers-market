@@ -1,0 +1,10 @@
+.day {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.day-info {
+  font-size: 1em;
+  color: var(--dark-color);
+}

@@ -1,15 +1,16 @@
 import React from "react";
 import PropTypes from "prop-types";
+import "./Day.css";
 
 function Day(props){
   return (
-    <React.Fragment>
+    <div className="day">
       <h3>{props.day}</h3>
-      <p><em>{props.location}</em></p>
-      <p><em>{props.hours}</em></p>
-      <p><em>{props.booth}</em></p>
+      <p className="day-info"><em>{props.location}</em></p>
+      <p className="day-info"><em>{props.hours}</em></p>
+      <p className="day-info"><em>{props.booth}</em></p>
       <hr/>
-    </React.Fragment>
+    </div>
   );
 }
 
